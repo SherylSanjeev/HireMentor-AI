@@ -1,0 +1,6 @@
+{
+  "name": "HireMentor AI",
+  "description": "AI-powered career mentor, resume analyzer, job recommendation system, and mock interview coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
